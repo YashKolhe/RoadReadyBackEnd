@@ -1,0 +1,240 @@
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/appsettings.Development.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/appsettings.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/RoadReady
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/RoadReady.deps.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/RoadReady.runtimeconfig.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/RoadReady.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/RoadReady.pdb
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/AutoMapper.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Humanizer.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.csproj.AssemblyReference.cache
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.AssemblyInfoInputs.cache
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.AssemblyInfo.cs
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.csproj.CoreCompileInputs.cache
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.MvcApplicationPartsAssemblyInfo.cs
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.MvcApplicationPartsAssemblyInfo.cache
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets/msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets/msbuild.build.RoadReady.props
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RoadReady.props
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RoadReady.props
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets.build.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/staticwebassets.development.json
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/scopedcss/bundle/RoadReady.styles.css
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.csproj.CopyComplete
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/refint/RoadReady.dll
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.pdb
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/RoadReady.genruntimeconfig.cache
+/Users/monilpuri/Desktop/CaseStudy/CaseStudy/RoadReady/obj/Debug/net6.0/ref/RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\appsettings.Development.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\appsettings.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.exe
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.deps.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.runtimeconfig.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.pdb
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\AutoMapper.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Humanizer.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.AssemblyReference.cache
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.AssemblyInfoInputs.cache
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.AssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.CoreCompileInputs.cache
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cache
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.build.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\scopedcss\bundle\RoadReady.styles.css
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.Up2Date
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\refint\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.pdb
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.genruntimeconfig.cache
+E:\Dot Net FSD Training Phase3\RoadReadyProj\CaseStudyFinal-master\obj\Debug\net6.0\ref\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\appsettings.Development.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\appsettings.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.exe
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.deps.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.runtimeconfig.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\RoadReady.pdb
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\AutoMapper.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Humanizer.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.AssemblyReference.cache
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.AssemblyInfoInputs.cache
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.AssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.CoreCompileInputs.cache
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cs
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.MvcApplicationPartsAssemblyInfo.cache
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.sourcelink.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.RoadReady.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.build.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RoadReady.props
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\scopedcss\bundle\RoadReady.styles.css
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.csproj.Up2Date
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\refint\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.pdb
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\RoadReady.genruntimeconfig.cache
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\obj\Debug\net6.0\ref\RoadReady.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\System.Text.Json.dll
+E:\Dot Net FSD Training Phase3\RoadReady Case Study\CaseStudyFinal-master\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
