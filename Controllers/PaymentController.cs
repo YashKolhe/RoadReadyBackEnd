@@ -62,24 +62,7 @@ namespace RoadReady.Controllers
                 return StatusCode(500, "Internal server error");
             }
         }
-        //[HttpGet("user/{userName}")]
-        //public IActionResult GetPaymentByUserName(string userName)
-        //{
-        //    try
-        //    {
-        //        _logger.LogInformation($"Retrieving payment with userName: {userName}", userName);
-        //        var payment = _paymentService.GetPaymentByUserName(userName);
-        //        if (payment == null)
-        //            return NotFound("Payment not found");
-
-        //        return Ok(payment);
-        //    }
-        //    catch (PaymentNotFoundException ex)
-        //    {
-        //        _logger.LogError(ex, $"Failed to retrieve Payment with userName: {userName}.", userName);
-        //        return StatusCode(500, "Internal server error");
-        //    }
-        //}
+        
         [HttpGet("user/{userId}")]
         public async Task<IActionResult> GetPaymentsByUserId(int userId)
         {
